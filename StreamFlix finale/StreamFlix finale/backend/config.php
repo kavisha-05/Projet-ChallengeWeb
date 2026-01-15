@@ -13,6 +13,6 @@ define('GENRE_SCIENCE_FICTION', 878);
 define('DB_HOST', 'localhost');
 define('DB_PORT', '5432');
 define('DB_NAME', 'streamflix');
-define('DB_USER', 'postgres'); // Changez selon votre configuration
-define('DB_PASS', 'azerty'); // Changez selon votre configuration
+define('DB_USER', 'postgres'); 
+define('DB_PASS', 'azerty'); 
 
